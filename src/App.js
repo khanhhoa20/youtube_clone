@@ -16,6 +16,16 @@ const App = () => (
         </Box>
     </BrowserRouter>
 )
-
+/*
+Layout{
+    Navbar
+    Feed{
+        Sidebar(selectedCategory-"default" and setSelectedCategory){
+            category
+        },
+        outlet-Ex: Video-MainContent
+    }
+}
+*/
 
 export default App
